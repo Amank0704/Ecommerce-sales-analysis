@@ -116,10 +116,12 @@ sales-analysis-project/
 ## 📊 Sample Visualizations
 
 ### Monthly Sales Trend
-
+<img width="1023" height="555" alt="image" src="https://github.com/user-attachments/assets/426a8d8f-7402-454b-b7a3-0095874a2165" />
 
 
 ### Category Performance
+<img width="1006" height="623" alt="image1" src="https://github.com/user-attachments/assets/56ddcc1e-d3d9-4b1d-806e-34b203d01648" />
+
 
 
 
